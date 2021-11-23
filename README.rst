@@ -37,4 +37,6 @@ Subdirectories:
 Build instructions
 ------------------
 
-To build the html version of the tutorials, run python doc/scripts/docgen.py
+To build the html version of the tutorials, run:
+
+ sphinx-build doc html
